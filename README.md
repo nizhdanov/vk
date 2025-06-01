@@ -1,6 +1,6 @@
 # Тестовое здание VK
 
-> В качестве State Manager'a был выбран Tanstack Query, потому что основная работа идет с асинхронным состоянием.
+> В качестве State Manager'a был выбран Tanstack Query, потому что основная работа идет с асинхронными данными и нет других глобальных состояний.
 
 Установка зависимостей
 
@@ -22,7 +22,7 @@ npm run dev
 
 TODO:
 
-- [] infinity scroll
-- [] form generator
-- [] test coverage
-- [] refactor few features
+- [ ] infinity scroll
+- [ ] form generator
+- [ ] test coverage
+- [ ] refactor few features
